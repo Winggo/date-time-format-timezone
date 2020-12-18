@@ -310,12 +310,12 @@ const packages = [{
 	localeListType: 'none'
 }, {
 	name: 'index',
-	timeZoneListType: 'all',
-	localeListType: 'all'
-}, {
-	name: basename + '-golden-zones-no-locale',
 	timeZoneListType: 'golden',
 	localeListType: 'none'
+}, {
+	name: basename + '-all-zones-all-locale',
+	timeZoneListType: 'all',
+	localeListType: 'all'
 }, {
 	name: basename + '-all-zones-no-locale',
 	timeZoneListType: 'all',
