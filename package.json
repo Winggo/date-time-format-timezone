@@ -1,7 +1,7 @@
 {
-  "name": "date-time-format-timezone",
+  "name": "date-time-format-timezone-custom",
   "version": "1.0.22",
-  "author": "Markandey Singh <markandeysingh@yahoo.com>",
+  "author": "Forked from Markandey Singh <markandeysingh@yahoo.com>",
   "contributors": [
     {
       "name": "Juan Dopazo",
@@ -17,7 +17,7 @@
     }
   ],
   "license": "BSD-3-Clause",
-  "description": "Surgically polyfills timezone support in Intl.DateTimeFormat API",
+  "description": "Surgically polyfills timezone support in Intl.DateTimeFormat API. Custom fork.",
   "main": "build/src/index.js",
   "devDependencies": {
     "babel-eslint": "^7.1.1",
